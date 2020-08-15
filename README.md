@@ -1,6 +1,6 @@
 # WASFATI
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/mhnd6/projectWASFATI/blob/master/2.jpg" width="48">
 
 WASFATI android app
 
