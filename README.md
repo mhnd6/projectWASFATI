@@ -1,8 +1,8 @@
 # WASFATI
-WASFATI APP for 490 project
+WASFATI android app
 
 Description:
-this android app was a project for 490 (Android apps development course) in FCIT, 
+> this android app was a project for 490 (Android apps development course) in FCIT, 
 the goal is to share different recipes from several countries and some features implemented:
 upload photos 
 add comment
