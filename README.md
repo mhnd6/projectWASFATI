@@ -1,12 +1,21 @@
 # WASFATI
 WASFATI android app
 
-Description:
+## Description:
 > this android app was a project for 490 (Android apps development course) in FCIT, 
-the goal is to share different recipes from several countries and some features implemented:
-upload photos 
-add comment
-likes recipes
+the goal is to share different recipes from several countries
+
+## features implemented:
+* upload photos 
+* add comment
+* likes recipes
+
+## Tools
+* Android Studio
+* java
+* firebase
+
+## photos
 
 
 
