@@ -1,6 +1,6 @@
 # WASFATI
 
- <img src="https://github.com/mhnd6/projectWASFATI/blob/master/2.jpg" width="200">
+ ` `<img src="https://github.com/mhnd6/projectWASFATI/blob/master/2.jpg" width="200">
 <img src="https://github.com/mhnd6/projectWASFATI/blob/master/3.jpg" width="200">
 <img src="https://github.com/mhnd6/projectWASFATI/blob/master/1.jpg" width="200">
 <img src="https://github.com/mhnd6/projectWASFATI/blob/master/4.jpg" width="200">
