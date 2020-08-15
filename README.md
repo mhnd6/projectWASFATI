@@ -1,6 +1,6 @@
 # WASFATI
 
-![Image of home screen](https://github.com/mhnd6/projectWASFATI/blob/master/2.jpg)
+<img src="https://github.com/favicon.ico" width="48">
 
 WASFATI android app
 
