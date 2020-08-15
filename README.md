@@ -1,4 +1,7 @@
 # WASFATI
+
+![Image of home screen](https://github.com/mhnd6/projectWASFATI/blob/master/2.jpg)
+
 WASFATI android app
 
 ## Description:
@@ -15,7 +18,6 @@ the goal is to share different recipes from several countries
 * java
 * firebase
 
-## photos
 
 
 
