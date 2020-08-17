@@ -15,7 +15,7 @@ the goal is to share different recipes from several countries
 ## features implemented:
 * upload photos 
 * add comment
-* likes recipes
+* like recipes
 
 ## Tools
 * Android Studio
