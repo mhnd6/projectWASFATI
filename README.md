@@ -5,22 +5,21 @@
 <img src="https://github.com/mhnd6/projectWASFATI/blob/master/1.jpg" width="200">
 <img src="https://github.com/mhnd6/projectWASFATI/blob/master/4.jpg" width="200">
 
-WASFATI android app
-> this was a group project 
+WASFATI Android App
 
 ## Description:
-> this android app was a project for 490 (Android apps development course) in FCIT, 
-the goal is to share different recipes from several countries
+> This android app was a project for 490 (Android apps development course) in FCIT, 
+the idea is to share different recipes of food with social media.
 
 ## features implemented:
-* upload photos 
-* add comment
-* like recipes
+* Upload photos 
+* Add comment
+* Like recipes
 
 ## Tools
 * Android Studio
-* java
-* firebase
+* Java
+* Firebase
 
 
 
